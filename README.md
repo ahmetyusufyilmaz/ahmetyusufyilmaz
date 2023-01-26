@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **C#,Javascript,Asp.Net MVC,HTML,CSS**
-
 - 📫 How to reach me **ahmetysfyilmaz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
